@@ -81,6 +81,9 @@
   text-align: center;
   color: #b9e769;
 }
+.small-p {
+  font-size: 0.5rem;
+}
 /* experience section */
 .section-a {
   overflow-x: hidden;
@@ -93,6 +96,13 @@
 /* boxes */
 .section-a > ul > li div {
   width: 250px;
+}
+/* font size */
+.small-p {
+  font-size: 0.8rem;
+}
+.list-item {
+  font-size: 0.8rem;
 }
 .section-a > ul > li:nth-child(odd) div,
 .section-a > ul > li:nth-child(even) div {
