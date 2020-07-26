@@ -89,11 +89,11 @@ p {
   direction: rtl;
 }
 .normal-p {
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
   text-align: right;
   font-family: vazir;
   font-weight: normal;
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   direction: rtl;
 }
 .small-p {
